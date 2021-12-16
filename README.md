@@ -2,7 +2,7 @@
 An analysis of NYC CitiBike bikesharing data from August 2019 using Tableau
 
 ## Overview
-Story Link:
+Story Link:https://public.tableau.com/app/profile/logan.murphy/viz/BikesharingChallenge_16394377999840/NYCBikeShare?publish=yes
 
 The purpose of this project was to examine and visualize bikesharing data from NYC Citibike in a way that would be helpful to potential business investors considering investing in the program at a different location, Des Moines, Iowa.
 These visualizations will answer questions like:
